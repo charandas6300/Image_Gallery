@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.search{
+  padding: 5px;
+  margin: 10px;
+}
+#butt{
+  color: white;
+  background-color: rgb(3, 115, 201);
+  /* border: black; */
+  border-radius: 7px;
+  border-width: 3px;
+}
